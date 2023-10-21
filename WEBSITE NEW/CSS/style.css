@@ -1,0 +1,14 @@
+.nav{ width : 100%; 
+	height : 40px;
+	 background-color:tan;
+}
+
+.nav ul {  text-align : center; }
+.nav ul li { display : inline-block ; font-size : 30px; margin: 2px 25px;}
+.nav a{text-decoration : none;}
+.dl{ width : 170px; height: 180px ; background-color : olive; position : absolute; display:none;}
+
+.p:hover .dl{ background-color : olive; position : absolute; display:block;}
+
+.nav ul li a:hover  { display : inline-block ; font-size : 30px;  background-color : black; color:white;}
+
